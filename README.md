@@ -13,8 +13,8 @@ You can click the Preview link to take a look at your changes.
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Dongare&theme=chartreuse-dark&langs_count=8)](https://github.com/Akshay-Dongare/github-readme-stats)
 
 <a href="https://github.com/Akshay-Dongare/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshay-Dongare&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshay-Dongare&show_icons=true&theme=chartreuse-dark" />
 </a>
 <a href="https://github.com/Akshay-Dongare/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshay-Dongare&repo=convoychat" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Akshay-Dongare&theme=chartreuse-dark&langs_count=8" />
 </a>

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Akshay-Dongare
 - 👀 I’m interested in OPEN SOURCE, PYTHON, C++, MACHINE LEARNING, MATHS, PHYSICS
-- 🌱 I’m currently learning COPMUTER ENGINEERING FIRST YEAR
+- 🌱 I’m currently learning COPMUTER ENGINEERING 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me INSTAGRAM:@akshayd02
 <!---

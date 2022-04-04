@@ -4,7 +4,7 @@ Akshay-Dongare/Akshay-Dongare is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi! Im a undergraduate student pursuing computer science.
+## Hi! Im an undergraduate student pursuing computer science.
 ## I am interested in Deep Learning 
 
 ### Email me at akshayd02@gmail.com

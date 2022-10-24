@@ -12,12 +12,15 @@ You can click the Preview link to take a look at your changes.
 ![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay-Dongare&show_icons=true&theme=chartreuse-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Dongare&theme=chartreuse-dark&langs_count=8)](https://github.com/Akshay-Dongare/github-readme-stats)
+
+
+
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
-         width="45" /> I'm Akash Lilhare</h1>
+         width="45" /> I'm Akshay Dongare</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashlilhare&label=Views&color=blue&style=plastic&style=for-the-badge" alt="akashlilhare" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashlilhare&label=Views&color=blue&style=plastic&style=for-the-badge" alt="AkshayDongare" /> </p>
 
 # 💫 About Me :
 - 😄 Pronouns: He/His

@@ -1,4 +1,3 @@
-[
 <!---
 Akshay-Dongare/Akshay-Dongare is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -20,16 +19,14 @@ You can click the Preview link to take a look at your changes.
          height="45"
          width="45" /> I'm Akshay Dongare</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=akashlilhare&label=Views&color=blue&style=plastic&style=for-the-badge" alt="AkshayDongare" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshay-Dongare&label=Views&color=blue&style=plastic&style=for-the-badge" alt="AkshayDongare" /> </p>
 
 # 💫 About Me :
-- 😄 Pronouns: He/His
-- 🌱 I’m currently learning more about Mobile Development.
-- 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: Check social links below.
-- ⚡ Fun fact: I spend almost 12 hours listening to songs every day.
+- 🌱 I’m currently learning more about Deep Learning.
+- 💬 Ask me about AI/ML or any tech-related stuff.
+- 📫 How to reach me: https://linktr.ee/akshaydongare
 
-[![resume](https://img.shields.io/badge/Resume-0000FF?style=for-the-badge&logo=akash&logoColor=white)](https://drive.google.com/file/d/1dbaAqRGBACoHu6RYThPusmSbKdG9CkxL/view)
+[![resume](https://img.shields.io/badge/Resume-0000FF?style=for-the-badge&logo=akash&logoColor=white)](https://drive.google.com/file/d/1D2RaRCqsocUs442ZE0UZDxGSbXUUQzcM/view?usp=sharing)
 
 ## 🌐 Socials
 [![pub package](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-lilhare-739a80192)   [![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashlilhare14@gmail.com) [![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/akash__lilhare) [![website](https://img.shields.io/badge/website-FF00FF?style=for-the-badge&logo=About.me&logoColor=white)](https://akash-lilhare.netlify.app) [![](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/14102180/akash-lilhare)

@@ -42,6 +42,6 @@ You can click the Preview link to take a look at your changes.
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-Dongare&theme=vue" />
 </p>
 <p>
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Dongare&theme=vue&langs_count=8" />
+	<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Dongare&theme=vue&langs_count=8" />
 </p>
 

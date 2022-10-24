@@ -3,17 +3,6 @@ Akshay-Dongare/Akshay-Dongare is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-## Hi! Im an undergraduate student pursuing computer science.
-## I am interested in Deep Learning 
-
-### Email me at akshayd02@gmail.com
-
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay-Dongare&show_icons=true&theme=chartreuse-dark)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Dongare&theme=chartreuse-dark&langs_count=8)](https://github.com/Akshay-Dongare/github-readme-stats)
-
-
-
 <h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif"
          height="45"
@@ -22,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshay-Dongare&label=Views&color=blue&style=plastic&style=for-the-badge" alt="AkshayDongare" /> </p>
 
 # 💫 About Me :
-- 🌱 I’m currently learning more about Deep Learning.
+- 🌱 I’m an undergraduate student currently learning more about Deep Learning.
 - 💬 Ask me about AI/ML or any tech-related stuff.
 - 📫 How to reach me: https://linktr.ee/akshaydongare
 
@@ -34,13 +23,8 @@ You can click the Preview link to take a look at your changes.
 ## 💻 Tech Stack & Tools
  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)  ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)   ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)     ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)   ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)     ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)  ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
 
-
-
 ## 🛒 Apps on Store
 [![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/developer?id=Akash+Lilhare) 
-
-## 🎵 Music apps I use
- <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/> <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
 
 ## 📈 Activity Graph
 <p align="center">
@@ -58,15 +42,6 @@ You can click the Preview link to take a look at your changes.
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-Dongare&theme=vue" />
 </p>
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay-Dongare&show_icons=true&theme=chartreuse-dark)
 
----
-[![](https://visitcount.itsvg.in/api?id=akashlilhare&icon=0&color=1)](https://visitcount.itsvg.in)
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
-](https://stackoverflow.com/users/18038150/akshay-dongare)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Dongare&theme=chartreuse-dark&langs_count=8)](https://github.com/Akshay-Dongare/github-readme-stats)

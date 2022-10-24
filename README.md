@@ -38,10 +38,10 @@ You can click the Preview link to take a look at your changes.
 
 ## 📟 GitHub Stats
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshay-Dongare&show_icons=true&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Akshay-Dongare&show_icons=true&theme=chartreuse-dark" />
 	<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Akshay-Dongare&theme=vue" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Dongare&theme=chartreuse-dark&langs_count=8" />
 </p>
 
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akshay-Dongare&show_icons=true&theme=chartreuse-dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Dongare&theme=chartreuse-dark&langs_count=8)](https://github.com/Akshay-Dongare/github-readme-stats)

@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Akshay-Dongare&label=Views&color=blue&style=plastic&style=for-the-badge" alt="AkshayDongare" /> </p>
 
 # 💫 About Me :
-- 🌱 I’m an undergraduate student currently learning more about Deep Learning.
+- 🌱 I’m a Master of Computer Science student at North Carolina State University.
 - 💬 Ask me about AI/ML or any tech-related stuff.
 - 📫 How to reach me: https://linktr.ee/akshaydongare
 

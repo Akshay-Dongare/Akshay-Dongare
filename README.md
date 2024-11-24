@@ -27,6 +27,8 @@ Passionate Computer Science graduate student at North Carolina State University 
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/akshayd02) 
 
 ## ORCID iD
+<img src="https://github.com/user-attachments/assets/e9695bc7-52db-4751-b26f-20e334abedbc" alt="ORCID iD QR Code" width=100>
+
 <a
 id="cy-effective-orcid-url"
 class="underline"
@@ -40,6 +42,5 @@ style="vertical-align: top">
   alt="ORCID iD icon"/>
 https://orcid.org/0000-0001-6358-6182
 </a>
-![ORCID](https://github.com/user-attachments/assets/e9695bc7-52db-4751-b26f-20e334abedbc)
 
 

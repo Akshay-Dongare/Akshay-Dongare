@@ -20,9 +20,6 @@ Passionate Computer Science graduate student at North Carolina State University 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
-### 👀 Profile Views
-[![](https://visitcount.itsvg.in/api?id=Akshay-Dongare&icon=5&color=12)](https://visitcount.itsvg.in)
-
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/akshayd02) 
 

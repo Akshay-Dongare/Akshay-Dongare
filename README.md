@@ -1,6 +1,9 @@
 # 💫 About Me:
 Passionate Computer Science graduate student at North Carolina State University with a strong foundation in AI, Machine Learning, and Software Engineering. Experienced in developing innovative solutions using cutting-edge technologies, including LLMs, Computer Vision, and Cloud platforms. Committed to pushing the boundaries of technology through research and practical applications. Skilled in Python, TensorFlow, and various data science tools. Always eager to learn and contribute to exciting projects in the field of AI and software development.
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Akshay-Dongare&limit=5&theme=default&combine_all_yearly_contributions=true)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/akshayd02) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/akshay-ashutosh-dongare-a2bb6b201) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@akshayd02) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/18038150/akshay-dongare) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/akshay_d02) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@akshaydongare2136) 
 
@@ -16,9 +19,6 @@ Passionate Computer Science graduate student at North Carolina State University 
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Akshay-Dongare&limit=5&theme=default&combine_all_yearly_contributions=true)
 
 ### 👀 Profile Views
 [![](https://visitcount.itsvg.in/api?id=Akshay-Dongare&icon=5&color=12)](https://visitcount.itsvg.in)

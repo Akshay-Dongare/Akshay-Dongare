@@ -3,6 +3,22 @@ Passionate Computer Science graduate student at North Carolina State University 
 
 I actively contribute to open source projects like [LangChain](https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+author%3AAkshay-Dongare+), [Langchain-Community](https://github.com/langchain-ai/langchain-community/pulls?q=is%3Apr+author%3AAkshay-Dongare+), and more!
 
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=75126845" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=75126845&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @Akshay-Dongare" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=75126845&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+
+<a href="https://next.ossinsight.io/widgets/official/compose-currently-working-on?activity_type=all&user_id=75126845" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=75126845&image_size=auto&color_scheme=dark" width="497.5" height="auto">
+    <img alt="@Akshay-Dongare's Recent Work - Last 28 days" src="https://next.ossinsight.io/widgets/official/compose-currently-working-on/thumbnail.png?activity_type=all&user_id=75126845&image_size=auto&color_scheme=light" width="497.5" height="auto">
+  </picture>
+</a>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Akshay-Dongare&limit=5&theme=default&combine_all_yearly_contributions=true)
 

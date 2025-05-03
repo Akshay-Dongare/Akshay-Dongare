@@ -1,7 +1,7 @@
 # 💫 About Me:
 Passionate Computer Science graduate student at North Carolina State University with a strong foundation in AI, Machine Learning, and Software Engineering. Experienced in developing innovative solutions using cutting-edge technologies, including LLMs, Computer Vision, and Cloud platforms. Committed to pushing the boundaries of technology through research and practical applications. Skilled in Python, TensorFlow, and various data science tools. Always eager to learn and contribute to exciting projects in the field of AI and software development.
 
-[![My OpenSauced Dev Card](./dev-card.png)](https://oss.fyi/Akshay-Dongare)
+I actively contribute to open source projects like [LangChain](https://github.com/langchain-ai/langchain/pulls?q=is%3Apr+author%3AAkshay-Dongare+), [Langchain-Community](https://github.com/langchain-ai/langchain-community/pulls?q=is%3Apr+author%3AAkshay-Dongare+), and more!
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Akshay-Dongare&limit=5&theme=default&combine_all_yearly_contributions=true)

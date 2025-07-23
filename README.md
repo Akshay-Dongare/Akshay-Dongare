@@ -31,26 +31,3 @@ I actively contribute to open source projects like [LangChain](https://github.co
 ![](https://github-readme-stats.vercel.app/api?username=Akshay-Dongare&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Akshay-Dongare&theme=default&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay-Dongare&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Akshay-Dongare&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
-
-## ORCID iD
-<img src="https://github.com/user-attachments/assets/e9695bc7-52db-4751-b26f-20e334abedbc" alt="ORCID iD QR Code" width=100>
-
-<a
-id="cy-effective-orcid-url"
-class="underline"
-href="https://orcid.org/0000-0001-6358-6182"
-target="orcid.widget"
-rel="me noopener noreferrer"
-style="vertical-align: top">
-<img
-  src="https://orcid.org/sites/default/files/images/orcid_16x16.png"
-  style="width: 1em; margin-inline-start: 0.5em"
-  alt="ORCID iD icon"/>
-https://orcid.org/0000-0001-6358-6182
-</a>
